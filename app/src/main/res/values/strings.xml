@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Book App</string>
+    <string name="welcome">Welcome to the Ask for a Book program</string>
+    <string name="Signup">New user? register</string>
+    <string name="admin">Admin panel</string>
+    <string name="abc_examole_com">abc@examole.com</string>
+    <string name="todo">TODO</string>
+    <string name="nn">+ Add a category</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

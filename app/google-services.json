@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316422335728",
+    "project_id": "ekittab",
+    "storage_bucket": "ekittab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316422335728:android:a45fb58de02c72ef352635",
+        "android_client_info": {
+          "package_name": "com.example.Ekittab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD75l7s0vzbkKa-WlBZt_4FtcBTR3WJZQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
